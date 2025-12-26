@@ -64,11 +64,11 @@ Note: every pattern project SHOULD include a `README.md` describing intent, clas
 Update this list as the repository evolves. Each implemented pattern will contain a project folder with a `README.md`.
 
 - Implemented
-  - [Abstract Factory](\AbstractFactoryPattern\README.md) — `AbstractFactoryPattern/`
-  - [Decorator](\DecoratorPattern\README.md) — `DecoratorPattern/`
-  - [Factory Method](\FactoryPattern\README.md) — `FactoryMethodPattern/`
-  - [Observer](\ObserverPattern\README.md) — `ObserverPattern/`
-  - [Strategy](\StrategyPattern\README.md) — `StrategyPattern/`
+  - [Abstract Factory](/AbstractFactoryPattern/README.md) — `AbstractFactoryPattern/`
+  - [Decorator](/DecoratorPattern/README.md) — `DecoratorPattern/`
+  - [Factory Method](/FactoryPattern/README.md) — `FactoryMethodPattern/`
+  - [Observer](/ObserverPattern/README.md) — `ObserverPattern/`
+  - [Strategy](/StrategyPattern/README.md) — `StrategyPattern/`
 
 - Planned / To be implemented
   - Singleton
