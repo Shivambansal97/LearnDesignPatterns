@@ -8,3 +8,10 @@ It is mainly used to implement distributed event handling systems.
 
 Principles used in this pattern :-
 - Strive for loose coupling between objects that interact.
+
+
+
+
+
+---
+GoBack to [Design Patterns](../README.md)

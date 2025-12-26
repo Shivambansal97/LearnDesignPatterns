@@ -6,3 +6,7 @@ for extending functionality.
 
 Principles used in Decorator Pattern :-
 - Classes should be open for extension but closed for modification
+
+
+---
+GoBack to [Design Patterns](../README.md)
