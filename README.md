@@ -11,29 +11,13 @@ This repository is intended for study and experimentation — clarity and pedago
 Root layout (representative):
 
 - `LearnDesignPatterns.sln` — solution file (targets .NET 8)    
-- `AbstractFactoryPattern/`  
-    - `AbstractFactoryPattern.csproj`  
+- `**Example**Pattern/`  
+    - `**Example**.csproj`  
     - `README.md` (pattern-specific)  
-    - source files...
-- `DecoratorPattern/`  
-    - `DecoratorPattern.csproj`  
-    - `README.md`
     - source files...
 - `DesignPatternDriver/` - a console app to run demos  
     - `DesignPatternDriver.csproj`  
     - `Program.cs`
-- `FactoryMethodPattern/`  
-    - `FactoryMethodPattern.csproj`  
-    - `README.md`
-    - source files...
-- `ObserverPattern/`  
-    - `ObserverPattern.csproj`  
-    - `README.md`
-    - source files...
-- `StrategyPattern/`  
-    - `StrategyPattern.csproj`  
-    - `README.md`
-    - source files...
 - ...other pattern projects...
 - `README.md` (this file)
 
