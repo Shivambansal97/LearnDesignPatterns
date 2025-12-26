@@ -1,8 +1,8 @@
-# DesignPatternsExamples
+# DesignPatterns
 
 A learning-focused .NET 8 solution that collects implementations and examples of classic software design patterns. Each pattern is implemented as its own project (or will be) so you can explore individual patterns in isolation, compare implementations, and extend the repository with new examples.
 
-This repository is intended for study and experimentation — clarity and pedagogy are prioritized over production concerns. Each pattern project contains its own `README.md` with pattern-specific explanation, sequence diagrams (where appropriate), sample usage, and notes.
+This repository is intended for study and experimentation â€” clarity and pedagogy are prioritized over production concerns. Each pattern project contains its own `README.md` with pattern-specific explanation, sequence diagrams (where appropriate), sample usage, and notes.
 
 ---
 
@@ -10,7 +10,7 @@ This repository is intended for study and experimentation — clarity and pedagogy
 
 Root layout (representative):
 
-- `LearnDesignPatterns.sln` — solution file (targets .NET 8)    
+- `LearnDesignPatterns.sln` â€” solution file (targets .NET 8)    
 - `AbstractFactoryPattern/`  
     - `AbstractFactoryPattern.csproj`  
     - `README.md` (pattern-specific)  
@@ -64,11 +64,11 @@ Note: every pattern project SHOULD include a `README.md` describing intent, clas
 Update this list as the repository evolves. Each implemented pattern will contain a project folder with a `README.md`.
 
 - Implemented
-  - [Abstract Factory](\AbstractFactoryPattern\README.md) — `AbstractFactoryPattern/`
-  - [Decorator](\DecoratorPattern\README.md) — `DecoratorPattern/`
-  - [Factory Method](\FactoryPattern\README.md) — `FactoryMethodPattern/`
-  - [Observer](\ObserverPattern\README.md) — `ObserverPattern/`
-  - [Strategy](\StrategyPattern\README.md) — `StrategyPattern/`
+  - [Abstract Factory](\AbstractFactoryPattern\README.md) â€” `AbstractFactoryPattern/`
+  - [Decorator](\DecoratorPattern\README.md) â€” `DecoratorPattern/`
+  - [Factory Method](\FactoryPattern\README.md) â€” `FactoryMethodPattern/`
+  - [Observer](\ObserverPattern\README.md) â€” `ObserverPattern/`
+  - [Strategy](\StrategyPattern\README.md) â€” `StrategyPattern/`
 
 - Planned / To be implemented
   - Singleton
@@ -117,7 +117,7 @@ Using the command line:
 
 ## Adding a new pattern example
 
-1. Create a new project — prefer a self-contained console or library project named with the pattern, e.g. `StrategyPattern`.
+1. Create a new project â€” prefer a self-contained console or library project named with the pattern, e.g. `StrategyPattern`.
    - `dotnet new console -o StrategyPattern`
 2. Add a `README.md` in the new project explaining:
    - The pattern intent and when to use it.
